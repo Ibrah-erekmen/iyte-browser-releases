@@ -9,11 +9,13 @@ Secure exam browser for the programming labs of the
 
 | Your computer | File |
 | --- | --- |
-| Mac with Apple chip (M1 or newer) | `IYTE-Browser-<version>-mac-arm64.dmg` |
-| Mac with Intel chip | `IYTE-Browser-<version>-mac-x64.dmg` |
-| Windows 10 / 11 | `IYTE-Browser-<version>-win.exe` |
-| Ubuntu / Debian | `IYTE-Browser-<version>-linux-amd64.deb` |
-| Other Linux | `IYTE-Browser-<version>-linux-x86_64.AppImage` |
+| **Mac with Apple Silicon** – M1, M2, M3, M4 or newer | `IYTE-Browser-<version>-mac-arm64.dmg` |
+| **Mac with Intel processor** | `IYTE-Browser-<version>-mac-x64.dmg` |
+| **Windows 10 / 11** | `IYTE-Browser-<version>-win.exe` |
+| **Linux** – Ubuntu / Debian | `IYTE-Browser-<version>-linux-amd64.deb` |
+| **Linux** – other distributions | `IYTE-Browser-<version>-linux-x86_64.AppImage` |
+
+**Which Mac do I have?** Apple menu → **About This Mac**. "Chip: Apple M…" means Apple Silicon; "Processor: Intel" means Intel.
 
 Installation steps are in `IYTE-Browser-Student-Guide.pdf`, attached to every release.
 
