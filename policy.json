@@ -1,0 +1,4 @@
+{
+  "policy": "{\"kind\":\"iyte-security-policy\",\"serial\":1,\"issued\":\"2026-10-27T18:29:43.810Z\",\"blockedApps\":[],\"allowedApps\":[],\"minVersion\":null}",
+  "signature": "ng3W/i9b05nvjyUMx/PK3320hwTS/PpuoZvHKqQ+JwNU8Nu5bkf7P0k20haMYsP8/tAyszSTPdQFt6aCWA8XCw=="
+}
