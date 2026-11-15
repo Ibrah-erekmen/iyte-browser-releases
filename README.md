@@ -1,4 +1,4 @@
-# IYTE Browser
+# IYTE EEE Browser
 
 Secure exam browser for the programming labs of the
 **Department of Electrical and Electronics Engineering, Izmir Institute of Technology**.
@@ -9,11 +9,11 @@ Secure exam browser for the programming labs of the
 
 | Your computer | File |
 | --- | --- |
-| **Mac with Apple Silicon** – M1, M2, M3, M4 or newer | `IYTE-Browser-<version>-mac-arm64.dmg` |
-| **Mac with Intel processor** | `IYTE-Browser-<version>-mac-x64.dmg` |
-| **Windows 10 / 11** | `IYTE-Browser-<version>-win.exe` |
-| **Linux** – Ubuntu / Debian | `IYTE-Browser-<version>-linux-amd64.deb` |
-| **Linux** – other distributions | `IYTE-Browser-<version>-linux-x86_64.AppImage` |
+| **Mac with Apple Silicon** – M1, M2, M3, M4 or newer | `IYTE-EEE-Browser-<version>-mac-arm64.dmg` |
+| **Mac with Intel processor** | `IYTE-EEE-Browser-<version>-mac-x64.dmg` |
+| **Windows 10 / 11** | `IYTE-EEE-Browser-<version>-win.exe` |
+| **Linux** – Ubuntu / Debian | `IYTE-EEE-Browser-<version>-linux-amd64.deb` |
+| **Linux** – other distributions | `IYTE-EEE-Browser-<version>-linux-x86_64.AppImage` |
 
 **Which Mac do I have?** Apple menu → **About This Mac**. "Chip: Apple M…" means Apple Silicon; "Processor: Intel" means Intel.
 
@@ -25,14 +25,14 @@ Installation steps are in `IYTE-Browser-Student-Guide.pdf`, attached to every re
 
 ## Updates
 
-IYTE Browser tells you on its start screen when a new version is published here.
+IYTE EEE Browser tells you on its start screen when a new version is published here.
 Install the new version over the old one.
 
 ## Check your download
 
 Every release includes `SHA256SUMS.txt`. Compare it with:
 macOS/Linux `shasum -a 256 <file>`, Windows `certutil -hashfile <file> SHA256`.
-Only install IYTE Browser from this page or from your course page.
+Only install IYTE EEE Browser from this page or from your course page.
 
 ---
 
